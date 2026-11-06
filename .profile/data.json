@@ -1,0 +1,173 @@
+{
+ "key": "4040a5d5",
+ "stars": 2,
+ "contributions": 313,
+ "repos": 4,
+ "followers": 0,
+ "languages": [
+  [
+   "JavaScript",
+   972702
+  ],
+  [
+   "TypeScript",
+   692996
+  ],
+  [
+   "Java",
+   70680
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 46,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 39,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 45,
+    "day": 6,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 7
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "EskimoPlugins",
+   "url": "https://github.com/MarkLong0467/EskimoPlugins",
+   "text": "Repository for my Valenced Plugins. Sadly, all made by Claude. but... was heavily tested and all work surprisingly without errors.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Next-NEFViewing",
+   "url": "https://github.com/MarkLong0467/Next-NEFViewing",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "MarkLong0467",
+   "url": "https://github.com/MarkLong0467/MarkLong0467",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AutoTranselate",
+   "url": "https://github.com/MarkLong0467/AutoTranselate",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
