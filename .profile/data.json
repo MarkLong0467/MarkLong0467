@@ -1,21 +1,25 @@
 {
- "key": "4040a5d5",
- "stars": 2,
- "contributions": 313,
- "repos": 4,
+ "key": "89f2badb",
+ "stars": 1,
+ "contributions": 337,
+ "repos": 2,
  "followers": 0,
  "languages": [
   [
-   "JavaScript",
-   972702
+   "TypeScript",
+   1589320
   ],
   [
-   "TypeScript",
-   692996
+   "JavaScript",
+   1062003
   ],
   [
    "Java",
    70680
+  ],
+  [
+   "Kotlin",
+   45043
   ]
  ],
  "days": [
@@ -31,7 +35,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 20,
     "today": false
    },
@@ -73,7 +77,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 1,
     "day": 28,
     "today": false
    },
@@ -120,7 +124,7 @@
     "today": false
    },
    {
-    "c": 45,
+    "c": 73,
     "day": 6,
     "today": true
    },
@@ -131,21 +135,22 @@
   "current": 2,
   "longest": 7
  },
- "pins": [],
- "all": [
+ "pins": [
   {
    "name": "EskimoPlugins",
    "url": "https://github.com/MarkLong0467/EskimoPlugins",
    "text": "Repository for my Valenced Plugins. Sadly, all made by Claude. but... was heavily tested and all work surprisingly without errors.",
    "fork": false,
    "stars": 1,
-   "language": "JavaScript",
+   "language": "TypeScript",
    "topics": []
-  },
+  }
+ ],
+ "all": [
   {
-   "name": "Next-NEFViewing",
-   "url": "https://github.com/MarkLong0467/Next-NEFViewing",
-   "text": "",
+   "name": "EskimoPlugins",
+   "url": "https://github.com/MarkLong0467/EskimoPlugins",
+   "text": "Repository for my Valenced Plugins. Sadly, all made by Claude. but... was heavily tested and all work surprisingly without errors.",
    "fork": false,
    "stars": 1,
    "language": "TypeScript",
@@ -158,15 +163,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "AutoTranselate",
-   "url": "https://github.com/MarkLong0467/AutoTranselate",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
    "topics": []
   }
  ]
