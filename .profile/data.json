@@ -1,5 +1,5 @@
 {
- "key": "5fa76b38",
+ "key": "fbca5879",
  "stars": 2,
  "contributions": 610,
  "repos": 2,
@@ -101,9 +101,13 @@
    {
     "c": 9,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
